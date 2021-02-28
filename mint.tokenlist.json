@@ -1,7 +1,7 @@
 {
   "name": "Gemini Token List",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 2
   },
@@ -44,14 +44,6 @@
       "decimals": 18,
       "address": "0xe504de8547e554554Bc3bE6431359e5CB52F091B",
       "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
-    },
-    {
-      "name": "Uniswap",
-      "chainId": 1281,
-      "symbol": "UNI",
-      "decimals": 18,
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
     }
   ]
 }
