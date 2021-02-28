@@ -18,7 +18,7 @@
       "chainId": 1281,
       "symbol": "TK1",
       "decimals": 18,
-      "address": "0x9249ebf309616c962b9524f992e631e63b6129a1",
+      "address": "0x7B932692e3B6C213E17d2E363A76e8571d1Ca6a2",
       "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
     },
     {
@@ -42,7 +42,7 @@
       "chainId": 1281,
       "symbol": "TK2",
       "decimals": 18,
-      "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+      "address": "0xe504de8547e554554Bc3bE6431359e5CB52F091B",
       "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
     },
     {
