@@ -1,7 +1,7 @@
 {
   "name": "Gemini Token List",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 2
   },
@@ -18,7 +18,7 @@
       "chainId": 1281,
       "symbol": "TK1",
       "decimals": 18,
-      "address": "0x7B932692e3B6C213E17d2E363A76e8571d1Ca6a2",
+      "address": "0x29F3EBA83E391BeB6A1902B6EBec5F6747CC9b97",
       "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
     },
     {
@@ -26,7 +26,7 @@
       "chainId": 1281,
       "symbol": "USDM",
       "decimals": 18,
-      "address": "0x9249ebf309616c962b9524f992e631e63b6129a1",
+      "address": "0xB9bA15cB158847A239550958333112582888493a",
       "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
     },
     {
@@ -34,7 +34,7 @@
       "chainId": 1281,
       "symbol": "XAUM",
       "decimals": 18,
-      "address": "0x61769b599ea09cd765d3890b7faea6f4b8b9a1c4",
+      "address": "0x25972c95bc9F7375aacA936eF039b499838731dD",
       "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
     },
     {
@@ -42,7 +42,7 @@
       "chainId": 1281,
       "symbol": "TK2",
       "decimals": 18,
-      "address": "0xe504de8547e554554Bc3bE6431359e5CB52F091B",
+      "address": "0xA2a513C72bDeeDcB9ef446ce6996BbCF5cb460F6",
       "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
     }
   ]
