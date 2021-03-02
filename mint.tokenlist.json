@@ -1,7 +1,7 @@
 {
   "name": "Gemini Token List",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 2
   },
@@ -52,6 +52,6 @@
       "decimals": 18,
       "address": "0x0ef8ea857a056a2416bc16c6c385a2081fd1ce46",
       "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
-    },
+    }
   ]
 }
