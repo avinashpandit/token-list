@@ -1,7 +1,7 @@
 {
   "name": "Gemini Token List",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 2
   },
@@ -22,6 +22,14 @@
       "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
     },
     {
+      "name": "Token2",
+      "chainId": 1281,
+      "symbol": "TK2",
+      "decimals": 18,
+      "address": "0xA2a513C72bDeeDcB9ef446ce6996BbCF5cb460F6",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
+    },
+    {
       "name": "USDM",
       "chainId": 1281,
       "symbol": "USDM",
@@ -38,12 +46,12 @@
       "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
     },
     {
-      "name": "Token2",
+      "name": "AUDM",
       "chainId": 1281,
-      "symbol": "TK2",
+      "symbol": "AUDM",
       "decimals": 18,
-      "address": "0xA2a513C72bDeeDcB9ef446ce6996BbCF5cb460F6",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
-    }
+      "address": "0x0ef8ea857a056a2416bc16c6c385a2081fd1ce46",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+    },
   ]
 }
