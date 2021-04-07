@@ -52,6 +52,14 @@
       "decimals": 18,
       "address": "0x0ef8ea857a056a2416bc16c6c385a2081fd1ce46",
       "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+    },
+    {
+      "name": "EURM",
+      "chainId": 1281,
+      "symbol": "EURM",
+      "decimals": 18,
+      "address": "0x0cFd08629e1B3dFb5F9655A401c3143dC35C959f",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
     }
   ]
 }
