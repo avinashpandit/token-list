@@ -1,7 +1,7 @@
 {
   "name": "Gemini Token List",
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 2
   },
@@ -14,28 +14,12 @@
   "timestamp": "2021-02-27T18:56:35+0000",
   "tokens": [
     {
-      "name": "Token1",
-      "chainId": 1281,
-      "symbol": "TK1",
-      "decimals": 18,
-      "address": "0x29F3EBA83E391BeB6A1902B6EBec5F6747CC9b97",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
-    },
-    {
-      "name": "Token2",
-      "chainId": 1281,
-      "symbol": "TK2",
-      "decimals": 18,
-      "address": "0xA2a513C72bDeeDcB9ef446ce6996BbCF5cb460F6",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
-    },
-    {
       "name": "USDM",
       "chainId": 1281,
       "symbol": "USDM",
       "decimals": 18,
       "address": "0xB9bA15cB158847A239550958333112582888493a",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usd.svg"
     },
     {
       "name": "XAUM",
@@ -43,7 +27,7 @@
       "symbol": "XAUM",
       "decimals": 18,
       "address": "0x25972c95bc9F7375aacA936eF039b499838731dD",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+      "logoURI": "https://gemini.com/images/currencies/icons/default/gold.svg"
     },
     {
       "name": "AUDM",
@@ -51,7 +35,7 @@
       "symbol": "AUDM",
       "decimals": 18,
       "address": "0x0ef8ea857a056a2416bc16c6c385a2081fd1ce46",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+      "logoURI": "https://gemini.com/images/currencies/icons/default/aud.svg"
     },
     {
       "name": "EURM",
@@ -59,7 +43,103 @@
       "symbol": "EURM",
       "decimals": 18,
       "address": "0x0cFd08629e1B3dFb5F9655A401c3143dC35C959f",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/eur.svg"
+    },
+    {
+      "name": "CADM",
+      "chainId": 1281,
+      "symbol": "CADM",
+      "decimals": 18,
+      "address": "0x5C9509f0D33bcFa6eBa2065C819D8B6cc18d16B0",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/cad.svg"
+    },
+    {
+      "name": "CHFM",
+      "chainId": 1281,
+      "symbol": "CHFM",
+      "decimals": 18,
+      "address": "0xae3Dd39902f2A5F58044ac532f225096A2ab21EA",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/chf.svg"
+    },
+    {
+      "name": "GBPM",
+      "chainId": 1281,
+      "symbol": "GBPM",
+      "decimals": 18,
+      "address": "0x27EdDdA6A6bA81109Cd4B9f694C36Ce730901e5F",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/gbp.svg"
+    },
+    {
+      "name": "HKDM",
+      "chainId": 1281,
+      "symbol": "HKDM",
+      "decimals": 18,
+      "address": "0xaC87Eee67273eD25789181ce5e0932BB8fFA740E",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/hkd.svg"
+    },
+    {
+      "name": "JPYM",
+      "chainId": 1281,
+      "symbol": "JPYM",
+      "decimals": 18,
+      "address": "0xb156d56e10A7738dD01B2eba678264459FfCd6a0",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/jpy.svg"
+    },
+    {
+      "name": "MXNM",
+      "chainId": 1281,
+      "symbol": "MXNM",
+      "decimals": 18,
+      "address": "0x8FDaCcf9d185795453bB0a499aAe602F77007726",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/mxn.svg"
+    },
+    {
+      "name": "NOKM",
+      "chainId": 1281,
+      "symbol": "NOKM",
+      "decimals": 18,
+      "address": "0x0E624987d88cd2Df03128b78823A6C7847fbc513",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/nok.svg"
+    },
+    {
+      "name": "NZDM",
+      "chainId": 1281,
+      "symbol": "NZDM",
+      "decimals": 18,
+      "address": "0x2cB11A6B06b23b8ebB022eE33BC074Ab0139ae1D",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/nzd.svg"
+    },
+    {
+      "name": "PLNM",
+      "chainId": 1281,
+      "symbol": "PLNM",
+      "decimals": 18,
+      "address": "0xEa9ac94e86C14020648223e7193937841B20BD5f",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/pln.svg"
+    },
+    {
+      "name": "RUBM",
+      "chainId": 1281,
+      "symbol": "RUBM",
+      "decimals": 18,
+      "address": "0x481E3CEDD4d7349fcE9D5B5873D9B6C2056d2186",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/rub.svg"
+    },
+    {
+      "name": "SGDM",
+      "chainId": 1281,
+      "symbol": "SGDM",
+      "decimals": 18,
+      "address": "0x3624d09145691356BFf4872A4eDced25e4C42f92",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/sgd.svg"
+    },
+    {
+      "name": "TRYM",
+      "chainId": 1281,
+      "symbol": "TRYM",
+      "decimals": 18,
+      "address": "0xcC46f96044dA4903f7C0E508d4cC9b516316D0aF",
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/try.svg"
     }
   ]
 }
