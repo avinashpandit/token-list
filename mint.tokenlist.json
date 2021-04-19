@@ -1,25 +1,41 @@
 {
-  "name": "Gemini Token List",
+  "name": "Rainbow Token List",
+  "timestamp": "2021-04-11T20:28:47.371Z",
+  "logoURI": "https://avatars0.githubusercontent.com/u/48327834?s=200&v=4",
   "version": {
-    "major": 8,
-    "minor": 0,
-    "patch": 2
+    "major": 2,
+    "minor": 2,
+    "patch": 0
   },
   "keywords": [
-    "gemini",
-    "tokens",
+    "rainbow",
     "trusted"
   ],
-  "logoURI": "https://gemini.com/static/images/loader.png",
-  "timestamp": "2021-02-27T18:56:35+0000",
   "tokens": [
+    {
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
+    },
     {
       "name": "USDM",
       "chainId": 1281,
       "symbol": "USDM",
       "decimals": 18,
       "address": "0xB9bA15cB158847A239550958333112582888493a",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/usd.svg"
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usd.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "XAUM",
@@ -27,7 +43,12 @@
       "symbol": "XAUM",
       "decimals": 18,
       "address": "0x25972c95bc9F7375aacA936eF039b499838731dD",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/gold.svg"
+      "logoURI": "https://gemini.com/images/currencies/icons/default/gold.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "AUDM",
@@ -35,7 +56,12 @@
       "symbol": "AUDM",
       "decimals": 18,
       "address": "0x0ef8ea857a056a2416bc16c6c385a2081fd1ce46",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/aud.svg"
+      "logoURI": "https://gemini.com/images/currencies/icons/default/aud.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "EURM",
@@ -43,7 +69,12 @@
       "symbol": "EURM",
       "decimals": 18,
       "address": "0x0cFd08629e1B3dFb5F9655A401c3143dC35C959f",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/eur.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/eur.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "CADM",
@@ -51,7 +82,12 @@
       "symbol": "CADM",
       "decimals": 18,
       "address": "0x5C9509f0D33bcFa6eBa2065C819D8B6cc18d16B0",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/cad.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/cad.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "CHFM",
@@ -59,7 +95,12 @@
       "symbol": "CHFM",
       "decimals": 18,
       "address": "0xae3Dd39902f2A5F58044ac532f225096A2ab21EA",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/chf.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/chf.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "GBPM",
@@ -67,7 +108,12 @@
       "symbol": "GBPM",
       "decimals": 18,
       "address": "0x27EdDdA6A6bA81109Cd4B9f694C36Ce730901e5F",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/gbp.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/gbp.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "HKDM",
@@ -75,7 +121,12 @@
       "symbol": "HKDM",
       "decimals": 18,
       "address": "0xaC87Eee67273eD25789181ce5e0932BB8fFA740E",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/hkd.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/hkd.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "JPYM",
@@ -83,7 +134,12 @@
       "symbol": "JPYM",
       "decimals": 18,
       "address": "0xb156d56e10A7738dD01B2eba678264459FfCd6a0",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/jpy.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/jpy.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "MXNM",
@@ -91,7 +147,12 @@
       "symbol": "MXNM",
       "decimals": 18,
       "address": "0x8FDaCcf9d185795453bB0a499aAe602F77007726",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/mxn.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/mxn.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "NOKM",
@@ -99,7 +160,12 @@
       "symbol": "NOKM",
       "decimals": 18,
       "address": "0x0E624987d88cd2Df03128b78823A6C7847fbc513",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/nok.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/nok.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "NZDM",
@@ -107,7 +173,12 @@
       "symbol": "NZDM",
       "decimals": 18,
       "address": "0x2cB11A6B06b23b8ebB022eE33BC074Ab0139ae1D",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/nzd.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/nzd.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "PLNM",
@@ -115,7 +186,12 @@
       "symbol": "PLNM",
       "decimals": 18,
       "address": "0xEa9ac94e86C14020648223e7193937841B20BD5f",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/pln.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/pln.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "RUBM",
@@ -123,7 +199,12 @@
       "symbol": "RUBM",
       "decimals": 18,
       "address": "0x481E3CEDD4d7349fcE9D5B5873D9B6C2056d2186",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/rub.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/rub.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "SGDM",
@@ -131,7 +212,12 @@
       "symbol": "SGDM",
       "decimals": 18,
       "address": "0x3624d09145691356BFf4872A4eDced25e4C42f92",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/sgd.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/sgd.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     },
     {
       "name": "TRYM",
@@ -139,7 +225,12 @@
       "symbol": "TRYM",
       "decimals": 18,
       "address": "0xcC46f96044dA4903f7C0E508d4cC9b516316D0aF",
-      "logoURI": "https://www.gemini.com/images/currencies/icons/default/try.svg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/try.svg",
+      "extensions": {
+        "color": "#1A56F0",
+        "isRainbowCurated": true,
+        "isVerified": true
+      }
     }
   ]
 }
